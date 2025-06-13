@@ -1,0 +1,23 @@
+ Ignore node_modules
+
+node_modules/
+
+Ignore environment variables
+
+.env
+
+Ignore Google Cloud credentials
+
+serviceAccountKey.json
+
+Ignore build output
+
+dist/ build/
+
+Ignore IDE files
+
+.vscode/ .idea/
+
+Ignore logs
+
+*.log
